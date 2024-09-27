@@ -1,8 +1,8 @@
 class Pipet < Formula
   desc "A swiss-army tool for scraping and extracting data from online assets"
   homepage "https://github.com/bjesus/pipet"
-  url "https://github.com/bjesus/pipet/archive/refs/tags/0.2.0.tar.gz"
-  sha256 "30d9ba0ba2115dc69fe83d170e55dca6f08852c880c0ce0ee2bd274d7f513d4a"
+  url "https://github.com/bjesus/pipet/archive/refs/tags/0.2.2.tar.gz"
+  sha256 "66e93172ad9e6706044bac6e815053a85312896588de1306102e65aa40db7569"
   license "MIT"
 
   depends_on "go" => :build
